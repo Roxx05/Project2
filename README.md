@@ -1,4 +1,4 @@
 # New Project
 
 This project is created from local system.
-Created by Ravi Kumar.d
+Created by Ravi Kumar.
